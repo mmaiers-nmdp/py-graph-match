@@ -1,6 +1,5 @@
 from my_project_template.model.slug import SLUG
 
-
 # SLUG match
 # match the SLUG of patient with donor
 
